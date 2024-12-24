@@ -51,7 +51,7 @@ Modified Java Argument (GraalVM)
 
 if you use shaders,make sure for this code is false like this ```-Dgraal.VectorizeSIMD=false``` 
 
-but if you not use shaders change the code to be ```-Dgraal.VectorizeSIMD=true``` 
+but if you dont use shaders change the code to be ```-Dgraal.VectorizeSIMD=true``` 
 
 
 
