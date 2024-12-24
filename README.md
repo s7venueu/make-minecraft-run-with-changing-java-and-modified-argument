@@ -31,7 +31,7 @@ Set the JAVA_HOME environment variable to resolve to the GraalVM installation di
 
  **1.** Go to Windows Start Menu, then Settings, then Advanced.
  
- **2.** Click Environment Variables. In the section “System Variables” find the JAVA_HOME variable and select it 
+ **2.** Click Environment Variables. In the section “System Variables” find the **JAVA_HOME** variable and select it 
  
  **3.** Click Edit.
  
